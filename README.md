@@ -1,7 +1,7 @@
-# KnockYout: Your Front-End YouTube Knockoff
+# WatchThis: Your Front-End YouTube Knockoff
 
 # Introduction
-KnockYout is a front-end YouTube clone that leverages the power of the YouTube v3 API, available through RapidAPI, to provide an immersive video-watching experience.
+WatchThis is a front-end YouTube clone that leverages the power of the YouTube v3 API, available through RapidAPI, to provide an immersive video-watching experience.
 
 # Key Features
 1. Video Search
